@@ -6,7 +6,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import * as serviceWorker from './serviceWorker';
 import ClockWidget from './Clockwidget';
 import WeatherWidget from './Weatherwidget.js';
-import Calculator from './Calculator/Calculator';
 import infoBox from './Infobox';
 import InfoBoxTest from './Infoboxtest';
 
